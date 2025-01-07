@@ -1,2 +1,2 @@
-# learningpython
-My basics in python
+# Learning Python
+You can find some basic python examples.
